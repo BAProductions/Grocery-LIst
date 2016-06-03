@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "8aff871a7984151f65acbd4706d3046b"
+build_time: [518272594, 285363000]
+inputs:
+  "/Users/kevin/Downloads/CameraApp/Grocery LIst/G List/functions.swift": [517490474, 0]
+  "/Users/kevin/Downloads/CameraApp/Grocery LIst/G List/MasterViewController.swift": [517683545, 0]
+  "/Users/kevin/Downloads/CameraApp/Grocery LIst/G List/AppDelegate.swift": [517683554, 0]
+  "/Users/kevin/Downloads/CameraApp/Grocery LIst/G List/note.swift": [516982041, 0]

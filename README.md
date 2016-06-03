@@ -1,4 +1,3 @@
-
 <Grocery-LIst is a simple list appclation for ios 9.3 an above and swift 2.2 an above>
     Copyright (C) <2016>  <DJABHipHop/BAProductions>
 
